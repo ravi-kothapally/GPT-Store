@@ -52,7 +52,7 @@ ngrok is a cross-platform application that enables developers to expose a local 
 
 Now, Ngrok is installed and configured on your Ubuntu system. You can start using it to expose local services to the internet by running commands like `ngrok http 80` or `ngrok tcp 22`, depending on your specific use case.
 
-gaian@gaian:~$ ngrok authtoken 2Xf6jrkGLbeSHP6eoPAGfqEIMAY_9bf3JURmKbnX8ahXwHm4
+gaian@gaian:~$ ngrok authtoken xx
 Authtoken saved to configuration file: /home/gaian/.ngrok2/ngrok.yml
 gaian@gaian:~$ ngrok tcp 3306
 
